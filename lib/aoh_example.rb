@@ -9,7 +9,6 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh[
   {DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G}
 ]
-assembled_aoh = result
 end 
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
